@@ -61,7 +61,7 @@ Cada tópico contém:
    ./programa
    ```
 
-> 💻 Você pode usar qualquer compilador C (GCC, Clang, MSVC) ou IDE de sua preferência (Code::Blocks, VS Code, CLion, etc.).
+> 💻 Você pode usar qualquer compilador C (GCC, Clang, MSVC) ou IDE de sua preferência (Dev-C++, Code::Blocks, VS Code, CLion, etc.).
 
 ---
 
